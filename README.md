@@ -56,3 +56,5 @@ Does it look good or not?
 :+1: :thumbsdown:
 
 Some more changes made from RStudio!
+
+And now back again to Github!
