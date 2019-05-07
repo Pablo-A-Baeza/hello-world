@@ -54,3 +54,5 @@ Task list
 @github/support What do you think of my attempt?
 Does it look good or not?
 :+1: :thumbsdown:
+
+Some more changes made from RStudio!
